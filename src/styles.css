@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+.navbar-brand-with-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: bold;
+  font-size: 42px;
+  color: white;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.navbar-bg-image {
+  align-content: center;
+  background-image: url("/assets/img/LOGO.png");
+}
